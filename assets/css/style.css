@@ -261,6 +261,7 @@ footer {
 /* -------------------------------------------------Skills */
 
 .progress {
+    line-height: unset;
     position: relative;
     height: 25px;
     margin-bottom: 4px;
@@ -275,6 +276,6 @@ footer {
     background-color: rgba(25, 25, 25, 0.2);
 }
 
-.progress-section {	
-    margin: 40px 20px;	
+.progress-section {
+    margin: 40px 20px;
 }
